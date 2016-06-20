@@ -1,10 +1,10 @@
 package com.sxz.dp.simplefactory;
 
-public class Gerry implements ICar{
+public class Geely implements ICar{
 
 	@Override
 	public void run() {
-		System.out.println("¼ªÀû³µÔÚ±¼ÅÜ...");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ú±ï¿½ï¿½ï¿½...");
 		
 	}
 
