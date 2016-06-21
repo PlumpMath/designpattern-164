@@ -27,7 +27,7 @@ public class Factory {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		ICar car=Factory.produce("1bmw");
+		ICar car=Factory.produce("benz");
 		car.run();
 
 	}
