@@ -4,7 +4,7 @@ public class Benz implements ICar {
 
 	@Override
 	public void run() {
-		System.out.println("±¼³Û³µÔÚ±¼ÅÜ¡£¡£¡£");
+		System.out.println("å¥”é©°è½¦åœ¨å¥”è·‘...");
 	}
 
 }

@@ -4,7 +4,7 @@ public class Geely implements ICar{
 
 	@Override
 	public void run() {
-		System.out.println("�������ڱ���...");
+		System.out.println("吉利车在奔跑。。。");
 		
 	}
 

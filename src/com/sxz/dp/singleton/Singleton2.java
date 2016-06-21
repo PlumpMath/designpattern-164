@@ -1,5 +1,5 @@
 /**
- * 
+ * 懒汉式双重验证机制单例模式、
  */
 package com.sxz.dp.singleton;
 
