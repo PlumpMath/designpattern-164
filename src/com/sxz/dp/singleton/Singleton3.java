@@ -1,3 +1,6 @@
+/**
+ * 静态内部类实现单例模式。
+ */
 package com.sxz.dp.singleton;
 
 public class Singleton3 {

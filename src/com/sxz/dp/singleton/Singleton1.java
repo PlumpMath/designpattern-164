@@ -1,3 +1,6 @@
+/***
+ * 饿汉式单例模式
+ */
 package com.sxz.dp.singleton;
 
 public class Singleton1 {

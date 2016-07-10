@@ -17,7 +17,7 @@ public class Factory {
 		}else if("geely".equalsIgnoreCase(carType)){
 			car=new Geely();
 		}else{
-			throw new RuntimeException("¸ÃÆ·ÅÆ³µÁ¾£¬±¾Éú²úÀà²»Ö§³ÖÉú²ú");
+			throw new RuntimeException("è¿™ç±»è½¦è¿˜æ²¡å‘ç”Ÿäº§ã€‚ã€‚ã€‚");
 		}
 		return car;
 			
@@ -27,7 +27,7 @@ public class Factory {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		ICar car=Factory.produce("1bmw");
+		ICar car=Factory.produce("benz");
 		car.run();
 
 	}

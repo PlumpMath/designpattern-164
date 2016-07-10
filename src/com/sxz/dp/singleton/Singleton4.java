@@ -1,3 +1,6 @@
+/**
+ * 枚举实现单例模式。
+ */
 package com.sxz.dp.singleton;
 
 public enum Singleton4 {
