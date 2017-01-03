@@ -4,8 +4,6 @@
 package com.sxz.dp.singleton;
 
 import java.util.Date;
-
-
 public class Singleton1 {
 	private static Singleton1 instance=new Singleton1();
 	private Singleton1(){
