@@ -5,7 +5,6 @@ package com.sxz.dp.singleton;
 
 import java.util.Date;
 
-import com.sun.jmx.snmp.Timestamp;
 
 public class Singleton1 {
 	private static Singleton1 instance=new Singleton1();
